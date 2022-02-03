@@ -1,2 +1,2 @@
 # NST-results
-Experiments results with Neural Style Transfer
+Experiment results with Neural Style Transfer
